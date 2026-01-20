@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 from googletrans import Translator
 
 # API Key de la NASA para APOD
-API_KEY_NASA = "mOLDlHiTAFgtisXfLuMXfS2BIfMabSYIpRcsd4Ew"
+API_KEY_NASA = "..."
 
 # Inicializar el traductor
 translator = Translator()
