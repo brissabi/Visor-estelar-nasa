@@ -9,7 +9,7 @@ from googletrans import Translator
 
 # API Key de la NASA para APOD
 API_KEY_NASA = "..."
-
+ 
 # Inicializar el traductor
 translator = Translator()
 
